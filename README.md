@@ -1,6 +1,6 @@
 ## Hello!!!
-🫠 I’m currently learning how to use GitHub
-🤪 My hobbies: Listening to **music**🎧, 🎹, 🧘‍♀️
+- 🫠 I’m currently learning how to use GitHub
+- 🤪 My hobbies: Listening to **music**🎧, 🎹, 🧘‍♀️
 
 <!--
 **HoiTungMA/HoiTungMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
